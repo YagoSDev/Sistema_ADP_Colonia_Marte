@@ -18,7 +18,7 @@ O objetivo da equipe foi juntar, em um único programa, os conteúdos estudados 
 
 ## O que o programa faz
 
-Ao iniciar o A.D.P., o usuário encontra um menu com cinco opções e o comando para sair. Primeiro, cadastra cinco informações: energia disponível, geração solar, geração eólica, consumo de energia e velocidade do vento. Depois, pode consultar cada análise separadamente. A geração total da colônia é a soma da geração solar com a eólica.
+Ao iniciar o A.D.P., o usuário encontra um menu com cinco opções e o comando para sair. Primeiro, cadastra cinco informações: energia disponível, geração solar, geração eólica, consumo de energia e velocidade do vento. Depois, pode consultar cada análise separadamente. A geração total da colônia é a soma da geração solar com a eólica
 
 Abaixo, o fluxograma ilustra como o sistema processa essas informações e toma decisões:
 
